@@ -14,9 +14,9 @@ User Interface: Developed a Tkinter-based GUI for real-time URL classification, 
 Delivered a reliable URL classification tool with a focus on user accessibility and cybersecurity awareness, contributing to digital safety practices.
 
 4. Skills Learned:
-Data Cleaning
-Exploratory Data Analysis
-Machine Learning Modeling
-Model Evaluation Metrics
-GUI Development (Tkinter)
-Cybersecurity Awareness
+Data Cleaning,
+Exploratory Data Analysis,
+Machine Learning Modeling,
+Model Evaluation Metrics,
+GUI Development (Tkinter),
+Cybersecurity Awareness,
