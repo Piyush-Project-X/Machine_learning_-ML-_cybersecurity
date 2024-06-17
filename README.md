@@ -1,6 +1,6 @@
 # Malicious_URL_detection_using_Machine_learning_cybersecurity
 
-This project was my first foray into machine learning during my junior year of undergraduate studies. I initially implemented the logistic regression algorithm and recently updated it to train on nearly half a million URLs classified as malicious and benign.
+This project was my first venture into machine learning during my junior year of undergraduate studies. I initially implemented the logistic regression algorithm and recently updated it to train on nearly half a million URLs classified as malicious and benign.
 
 1. Problem Statement:
 Significance of URL Classification: In today's digital landscape, the multiplication of malicious URLs poses a significant threat to cybersecurity. These URLs can lead unsuspecting users to phishing sites, malware downloads, or other malicious activities. Identifying and classifying URLs accurately as malicious or benign is crucial for protecting individuals and organizations from cyber threats.
