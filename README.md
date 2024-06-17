@@ -20,3 +20,5 @@ Machine Learning Modeling,
 Model Evaluation Metrics,
 GUI Development (Tkinter),
 Cybersecurity Awareness,
+
+Note: GitHub has a size limit for files, so I couldn't upload the actual 30MB file. I reduced its size by deleting some data and then added it to the repository.
