@@ -1,24 +1,32 @@
-# Malicious_URL_detection_using_Machine_learning_cybersecurity
+# Malicious URL Detection using Machine Learning in Cybersecurity
 
-This project was my first venture into machine learning during my junior year of undergraduate studies. I initially implemented the logistic regression algorithm and recently updated it to train on nearly half a million URLs classified as malicious and benign.
+This project marked my entry into machine learning during my junior year of undergraduate studies. Initially implementing the logistic regression algorithm, I later enhanced it to train on nearly half a million URLs classified as malicious and benign.
 
-1. Problem Statement:
-Significance of URL Classification: In today's digital landscape, the multiplication of malicious URLs poses a significant threat to cybersecurity. These URLs can lead unsuspecting users to phishing sites, malware downloads, or other malicious activities. Identifying and classifying URLs accurately as malicious or benign is crucial for protecting individuals and organizations from cyber threats.
+## Problem Statement
 
-2. Implementation Approach:
-Understanding URL Characteristics: Analyzed and visualized URL features to extract meaningful patterns for classification.
-Model Development: Built a Logistic Regression model using TF-IDF vectorization(Term Frequency-Inverse Document Frequency) for URL classification.
-User Interface: Developed a Tkinter-based GUI for real-time URL classification, enabling users to assess the safety of web links instantly.
+**1. Significance of URL Classification:**
+In today's digital landscape, the proliferation of malicious URLs poses a significant cybersecurity threat. These URLs can direct unsuspecting users to phishing sites, malware downloads, or other malicious activities. Accurate classification of URLs as malicious or benign is critical for protecting individuals and organizations from cyber threats.
 
-3. Outcome:
-Delivered a reliable URL classification tool with a focus on user accessibility and cybersecurity awareness, contributing to digital safety practices.
+## Implementation Approach
 
-4. Skills Learned:
-Data Cleaning,
-Exploratory Data Analysis,
-Machine Learning Modeling,
-Model Evaluation Metrics,
-GUI Development (Tkinter),
-Cybersecurity Awareness,
+**2. Methodology:**
+- **Understanding URL Characteristics:** Analyzed and visualized URL features to extract meaningful patterns for classification.
+- **Model Development:** Employed Logistic Regression using TF-IDF vectorization (Term Frequency-Inverse Document Frequency) for URL classification.
+- **User Interface:** Developed a Tkinter-based GUI for real-time URL classification, enhancing user ability to assess web link safety instantly.
 
-Note: GitHub has a size limit for files, so I couldn't upload the actual 30MB file. I reduced its size by deleting some data and then added it to the repository.
+## Outcome
+
+**3. Achievements:**
+Delivered a robust URL classification tool emphasizing user accessibility and promoting cybersecurity awareness, thereby bolstering digital safety practices.
+
+## Skills Gained
+
+**4. Skills Acquired:**
+- Data Cleaning
+- Exploratory Data Analysis
+- Machine Learning Modeling
+- Model Evaluation Metrics
+- GUI Development (Tkinter)
+- Cybersecurity Awareness
+
+*Note: Due to GitHub's file size limit, I reduced the dataset's size before adding it to the repository.*
